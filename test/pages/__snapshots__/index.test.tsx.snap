@@ -1,0 +1,47 @@
+// Jest Snapshot v1, https://goo.gl/fbAQLP
+
+exports[`Home page matches snapshot 1`] = `
+<DocumentFragment>
+  <table
+    class="table table-hover table-striped table-dark table-bordered"
+  >
+    <thead>
+      <tr>
+        <th
+          scope="col"
+        >
+          #
+        </th>
+        <th
+          scope="col"
+        >
+          Name
+        </th>
+        <th
+          scope="col"
+        >
+          Details
+        </th>
+      </tr>
+    </thead>
+    <tbody>
+      <tr>
+        <td>
+          1
+        </td>
+        <td>
+          x
+        </td>
+        <td>
+          <button
+            class="btn brn-sm btn-link "
+            type="button"
+          >
+            Get Detail
+          </button>
+        </td>
+      </tr>
+    </tbody>
+  </table>
+</DocumentFragment>
+`;
